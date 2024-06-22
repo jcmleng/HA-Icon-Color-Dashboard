@@ -1,0 +1,1925 @@
+views:
+  - title: Home
+    cards:
+      - type: vertical-stack
+        cards:
+          - type: horizontal-stack
+            cards:
+              - type: custom:button-card
+                name: Alice
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: aliceblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Antique
+                label: White
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: antiquewhite
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Aqua
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: aqua
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Aqua
+                label: Marine
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: aquamarine
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Azure
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: azure
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Beige
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: beige
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Bisque
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: bisque
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Black
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: black
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Blance
+                label: Almond
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: blanchealmond
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Blue
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: blue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Blue
+                label: Violet
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: blueviolet
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Brown
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: brown
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Burly
+                label: Wood
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: burlywood
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Cadet
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: cadetblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+          - type: horizontal-stack
+            cards:
+              - type: custom:button-card
+                name: Chart
+                label: Reuse
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: chartreuse
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Chocolate
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: chocolate
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Corn
+                label: Silk
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: cornsilk
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Crimson
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: crimson
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Cyan
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: cyan
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark
+                label: Cyan
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkcyan
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark Gold
+                label: Rod
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkgoldenrod
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark
+                label: Gray
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkgray
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark
+                label: Green
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkgreen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark
+                label: Grey
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkgrey
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark
+                label: Khaki
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkkhaki
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark
+                label: Magenta
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkmagenta
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark Olive
+                label: Green
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkolivegreen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+          - type: horizontal-stack
+            cards:
+              - type: custom:button-card
+                name: Dark
+                label: Orange
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkorange
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark
+                label: Orchid
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkorchid
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark
+                label: Red
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkred
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark
+                label: Salmon
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darksalmon
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark Sea
+                label: Green
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkseagreen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark Slate
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkslateblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark Slate
+                label: Gray
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkslategray
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark Slate
+                label: Grey
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkslategrey
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark
+                label: Turquoise
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkturquoise
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dark
+                label: Violet
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: darkviolet
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Deep
+                label: Pink
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: deeppink
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Deep Sky
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: deepskyblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dim
+                label: Gray
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: dimgray
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Dim
+                label: Grey
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: dimgrey
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+          - type: horizontal-stack
+            cards:
+              - type: custom:button-card
+                name: Dodger
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: dodgerblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Fire
+                label: Brick
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: firebrick
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Forest
+                label: Green
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: forestgreen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Fuchsia
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: fuchsia
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Gainsboro
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: gainsboro
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Ghost
+                label: White
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: ghostwhite
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Gold
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: gold
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Golden
+                label: Rod
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: goldenrod
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Gray
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: gray
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Green
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: green
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Green
+                label: Yellow
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: greenyellow
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Grey
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: grey
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Honey
+                label: Dew
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: honeydew
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Hot
+                label: Pink
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: hotpink
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+          - type: horizontal-stack
+            cards:
+              - type: custom:button-card
+                name: Indian
+                label: Red
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: indianred
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Indigo
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: indigo
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Ivory
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: ivory
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Khaki
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: khaki
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Lavender
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lavender
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Lavender
+                label: Blush
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lavenderblush
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Lawn
+                label: Green
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lawngreen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Lemon
+                label: Chiffon
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lemonchiffon
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Light
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Light
+                label: Coral
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightcoral
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Light
+                label: Cyan
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightcyan
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Lt Golden
+                label: Rod Yellow
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightgoldenrodyellow
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Light
+                label: Gray
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightgray
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Light
+                label: Green
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightgreen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+          - type: horizontal-stack
+            cards:
+              - type: custom:button-card
+                name: Light
+                label: Grey
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightgrey
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Light
+                label: Pink
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightpink
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Light
+                label: Salmon
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightsalmon
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Light Sea
+                label: Green
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightseagreen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Light
+                label: Sky Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightskyblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Light Slate
+                label: Gray
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightslategray
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Light Slate
+                label: Grey
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightslategrey
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Light Steel
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightsteelblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Light
+                label: Yellow
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lightyellow
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Lime
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: lime
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Lime
+                label: Green
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: limegreen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Linen
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: linen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Magenta
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: magenta
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Maroon
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: maroon
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+          - type: horizontal-stack
+            cards:
+              - type: custom:button-card
+                name: Med Aqua
+                label: Marine
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: mediumaquamarine
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Medium
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: mediumblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Medium
+                label: Orchid
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: mediumorchid
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Medium
+                label: Purple
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: mediumpurple
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Medium
+                label: Sea Green
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: mediumseagreen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Med Slate
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: mediumslateblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Med Spring
+                label: Green
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: mediumspringgreen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Medium
+                label: Turqoise
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: mediumturquoise
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Medium
+                label: Violet Red
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: mediumvioletred
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Midnight
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: midnightblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Mint
+                label: Cream
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: mintcream
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Misty
+                label: Rose
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: mistyrose
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Moccasin
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: moccasin
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Navajo
+                label: White
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: navajowhite
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+          - type: horizontal-stack
+            cards:
+              - type: custom:button-card
+                name: Navy
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: navy
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Navy
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: navyblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Old
+                label: Lace
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: oldlace
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Olive
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: olive
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Olive
+                label: Drab
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: olivedrab
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Orange
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: orange
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Orange
+                label: Red
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: orangered
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Orchid
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: orchid
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Pale Gold
+                label: Rod
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: palegoldenrod
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Pale
+                label: Green
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: palegreen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Pale
+                label: Turqoise
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: paleturquoise
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Pale
+                label: Violet Red
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: palevioletred
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Papaya
+                label: Whip
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: papayawhip
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Peach
+                label: Puff
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: peachpuff
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+          - type: horizontal-stack
+            cards:
+              - type: custom:button-card
+                name: Peru
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: peru
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Pink
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: pink
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Plum
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: plum
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Powder
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: powderblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Purple
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: purple
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Red
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: red
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Rosy
+                label: Brown
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: rosybrown
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Royal
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: royalblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Saddle
+                label: Brown
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: saddlebrown
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Salmon
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: salmon
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Sandy
+                label: Brown
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: sandybrown
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Sea
+                label: Green
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: seagreen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Seashell
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: seashell
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Sienna
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: sienna
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+          - type: horizontal-stack
+            cards:
+              - type: custom:button-card
+                name: Silver
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: silver
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Sky
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: skyblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Slate
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: slateblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Slate
+                label: Gray
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: slategray
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Slate
+                label: Grey
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: slategrey
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Snow
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: snow
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Spring
+                label: Green
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: springgreen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Steel
+                label: Blue
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: steelblue
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Tan
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: tan
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Teal
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: teal
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Thistle
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: thistle
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Tomato
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: tomato
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Turquoise
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: turquoise
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Violet
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: violet
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+          - type: horizontal-stack
+            cards:
+              - type: custom:button-card
+                name: Wheat
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: wheat
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: White
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: white
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: White
+                label: Smoke
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: whitesmoke
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Yellow
+                label: ~~
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: yellow
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Yellow
+                label: Green
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: yellowgreen
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
+              - type: custom:button-card
+                name: Home
+                label: Assistant
+                justify-self: start
+                show_label: true
+                icon: mdi:forest
+                color: rgb(24,188,242)
+                styles:
+                  card:
+                    - height: 75px
+                    - width: 61px
+                    - font-size: 12px
+                    - color: white
