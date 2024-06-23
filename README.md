@@ -5,6 +5,7 @@ This is the full yaml for a dedicated Home Assistant Dashboard which has 1 butto
 
 This is to enable easy visual selection  of an icon color rather than work off the description in the link. The buttons themselves do nothing but the colour code can be copied from the button config.
 
-Added a higher resolution version of the image below.
+23 June 24: Added a higher resolution version of the image below
+
 
 ![image](https://github.com/jcmleng/HA-Icon-Color-Dashboard/assets/117505668/04b74d61-ea9a-46fe-addb-c8071aae53bb)
