@@ -7,5 +7,7 @@ This is to enable easy visual selection  of an icon color rather than work off t
 
 23 June 24: Added a higher resolution version of the image below
 
+23 June 24: Revised the dashboard to sort by colour shades instead. Higher Resolution file of this new dashboard has been added
 
-![image](https://github.com/jcmleng/HA-Icon-Color-Dashboard/assets/117505668/04b74d61-ea9a-46fe-addb-c8071aae53bb)
+![HA Icon Colours Sorted by Colour](https://github.com/jcmleng/HA-Icon-Color-Dashboard/assets/117505668/f2235848-0693-429b-be0c-47b7d1807157)
+
